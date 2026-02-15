@@ -97,7 +97,7 @@ npm install mem0ai
 
 ### Basic Usage
 
-Mem0 requires an LLM to function, with `gpt-4.1-nano-2025-04-14 from OpenAI as the default. However, it supports a variety of LLMs; for details, refer to our [Supported LLMs documentation](https://docs.mem0.ai/components/llms/overview).
+Mem0 requires an LLM to function, with `gpt-4.1-nano-2025-04-14` from OpenAI as the default. However, it supports a variety of LLMs; for details, refer to our [Supported LLMs documentation](https://docs.mem0.ai/components/llms/overview).
 
 First step is to instantiate the memory:
 
